@@ -1,0 +1,4 @@
+{
+  "GREEN_CORPSE_EXPLOSION.title": "尸爆术",
+  "GREEN_CORPSE_EXPLOSION.description": "给予{PoisonPower:diff()}层[gold]中毒[/gold]。\n若该敌人在本场战斗中死亡，则对所有敌人造成等同于其最大生命值的伤害。"
+}
