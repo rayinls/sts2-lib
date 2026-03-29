@@ -1,0 +1,5 @@
+{
+  "GREEN_CORPSE_EXPLOSION_POWER.title": "尸爆",
+  "GREEN_CORPSE_EXPLOSION_POWER.description": "若该生物在本场战斗中死亡，则对所有敌人造成等同于其最大生命值的伤害。",
+  "GREEN_CORPSE_EXPLOSION_POWER.smartDescription": "若[gold]{OwnerName}[/gold]在本场战斗中死亡，则对所有敌人造成等同于其最大生命值的伤害。"
+}
